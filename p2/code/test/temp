@@ -1,0 +1,28 @@
+Loaded Program: 496 code | 80 data | 0 bss
+System Call: 0 invoked Write
+About to Exec() some stuff...
+System Call: 0 invoked Exec
+Loaded Program: 416 code | 32 data | 0 bss
+Exec Program: 0 loading exec1
+System Call: 1 invoked Write
+GSystem Call: 0 invoked Exec
+Loaded Program: 416 code | 32 data | 0 bss
+Exec Program: 0 loading exec2
+rSystem Call: 2 invoked Write
+System Call: 0 invoked Exec
+Loaded Program: 416 code | 32 data | 0 bss
+Exec Program: 0 loading exec3
+eSystem Call: 3 invoked Write
+System Call: 0 invoked Write
+etings from exec1.c
+System Call: 1 invoked Exit
+Process 1 exits with 0
+Greetings from exec2.c
+System Call: 2 invoked Exit
+Process 2 exits with 0
+Greetings from exec3.c
+System Call: 3 invoked Exit
+Process 3 exits with 0
+Preparing to Halt()...
+System Call: 0 invoked Exit
+Process 0 exits with 0

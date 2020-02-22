@@ -1,0 +1,36 @@
+Project 2 report:
+
+Team members:
+- Kelly Wang
+- Jonathan Day
+- Ajit Vijayakumar
+
+PART 1:
+
+In our opinion, we found this part was the most difficult
+and thus the most educational, so we worked on them together at csil
+over the period of several afternoons, so we did these functions together:
+
+Fork(func)
+Yield()
+Exit(int)
+Exec(filename)
+Join()
+
+PART 2:
+
+For part 2, we found that these sections were more easy to do invididually,
+and because we have busy schedules, we implemented them separately. We did
+use eachother for help and advice when necessary so all the functions worked together 
+under a similar methodology.
+
+The breakdown for these are:
+
+Creat()- Kelly
+Open() - Kelly
+Read() - Jonathan
+Write() - Jonathan
+Close() - Ajit
+
+As a team, we believe that we all contributed equally to this project,
+and our happy with how we work as a team.
